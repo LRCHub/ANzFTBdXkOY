@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cómo Te Va Mi Amor",
+  "base_artist": "Pandora",
+  "createdAt": "2026-02-13T04:06:43.204872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Como Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/01_Como_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/02_Cómo_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "¿Cómo te va mi amor?",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/03_¿Cómo_te_va_mi_amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/04_Cómo_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Como te va mi amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/05_Como_te_va_mi_amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/06_Cómo_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Como Te Va Mi Amor",
+      "artist": "Nicho Hinojosa",
+      "has_synced": true,
+      "path": "select/07_Como_Te_Va_Mi_Amor_Nicho_Hinojosa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor (Live)",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/08_Cómo_Te_Va_Mi_Amor_(Live)_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": false,
+      "path": "select/09_Cómo_Te_Va_Mi_Amor_Pandora.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor - Remastered 2008",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/10_Cómo_Te_Va_Mi_Amor_-_Remastered_2008_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/11_Cómo_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/12_Cómo_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Como Te Va Mi Amor",
+      "artist": "Nicho Hinojosa",
+      "has_synced": true,
+      "path": "select/13_Como_Te_Va_Mi_Amor_Nicho_Hinojosa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/14_Cómo_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cómo Te Va Mi Amor",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/15_Cómo_Te_Va_Mi_Amor_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Como Te Va Mi Amor",
+      "artist": "Tierra Canela",
+      "has_synced": false,
+      "path": "select/16_Como_Te_Va_Mi_Amor_Tierra_Canela.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cómo Te Va, Mi Amor",
+      "artist": "Pandora",
+      "has_synced": false,
+      "path": "select/pl_01_Cómo_Te_Va,_Mi_Amor_Pandora.txt"
+    }
+  ]
+}
